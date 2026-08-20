@@ -26,4 +26,8 @@ Materiais visuais e apresentações desenvolvidos para o projeto.
 * **Update 3:** *Em desenvolvimento*
 * **Update 4:** *Em desenvolvimento*
 
+### Diagramas: 
+Casos de uso: 
+BPMN: https://miro.com/welcomeonboard/TXpteG9zaFdqaFVBcGMrT3FXQXh4R0ZMN3cvN09pNU9Cc3JneGt4Yk9qa081ZDZVaXB5L2NMM3l2OTZXTVhVa2FwU1g4RGV5blM0MnFoRm9WUitML0JKUkUvN1YvSGZGZ1lIa3JjZkVuSUJscU5oYWt6aE4rQzNiZHVuRDZYdWVzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=139923843165
+
 
