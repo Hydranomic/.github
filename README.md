@@ -23,6 +23,6 @@ Materiais visuais e apresentações de acompanhamento:
 * **Update 4:** *Em desenvolvimento*
 
 ### 📊 Diagramas e Modelagem
-* **Casos de Uso:** *Em desenvolvimento*
+* **Casos de Uso:** [Acessar diagrama no Miro](https://miro.com/app/board/uXjVHvj4DRk=/?share_link_id=969703361068)
 * **BPMN:** [Acessar fluxo no Miro](https://miro.com/welcomeonboard/TXpteG9zaFdqaFVBcGMrT3FXQXh4R0ZMN3cvN09pNU9Cc3JneGt4Yk9qa081ZDZVaXB5L2NMM3l2OTZXTVhVa2FwU1g4RGV5blM0MnFoRm9WUitML0JKUkUvN1YvSGZGZ1lIa3JjZkVuSUJscU5oYWt6aE4rQzNiZHVuRDZYdWVzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=139923843165)
 
