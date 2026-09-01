@@ -22,11 +22,10 @@ Materiais visuais e apresentações de acompanhamento:
 * **Update 3:** *Em desenvolvimento*
 * **Update 4:** *Em desenvolvimento*
 
-🎨 Figma
 
+### 🎨 Figma
 Planejamento visual e prototipação das interfaces do projeto:
-
-Acessar projeto no Figma
+* [Acessar projeto no Figma](https://www.figma.com/design/EzFuL9zboB1afjKqj3uxSK/Untitled?node-id=0-1&p=f&t=sqxx2lRTUqm2NLOd-0)
 
 ### 📊 Diagramas e Modelagem
 * **Casos de Uso:** [Acessar diagrama no Miro](https://miro.com/app/board/uXjVHvj4DRk=/?share_link_id=969703361068)
