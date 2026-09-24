@@ -22,7 +22,7 @@ Materiais visuais e apresentações de acompanhamento:
 * **Update 3:** [Acessar apresentação](https://canva.link/6jy2c75i0wdx99r)
 * **Update 4:** *Em desenvolvimento*
 * **Update 5:** *Em desenvolvimento*
-* * **Monografia:** *Em desenvolvimento*
+* **Monografia:** *Em desenvolvimento*
 * **Update 6:** *Em desenvolvimento*
 
 
