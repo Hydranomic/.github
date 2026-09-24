@@ -19,8 +19,12 @@ Materiais visuais e apresentações de acompanhamento:
 * **Pitch:** [Acessar apresentação](https://www.canva.com/design/DAHQ25o_YPs/i773rrQ7qiblzbjZih1XMw/edit)
 * **Update 1:** [Acessar apresentação](https://canva.link/rxqva03fnzxf4ol)
 * **Update 2:** [Acessar apresentação](https://canva.link/dssb9fctljwy0l3)
-* **Update 3:** *Em desenvolvimento*
+* **Update 3:** [Acessar apresentação](https://canva.link/6jy2c75i0wdx99r)
 * **Update 4:** *Em desenvolvimento*
+* **Update 5:** *Em desenvolvimento*
+* * **Monografia:** *Em desenvolvimento*
+* **Update 6:** *Em desenvolvimento*
+
 
 
 ### 🎨 Figma
