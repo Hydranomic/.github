@@ -20,8 +20,8 @@ Materiais visuais e apresentações de acompanhamento:
 * **Update 1:** [Acessar apresentação](https://canva.link/rxqva03fnzxf4ol)
 * **Update 2:** [Acessar apresentação](https://canva.link/dssb9fctljwy0l3)
 * **Update 3:** [Acessar apresentação](https://canva.link/6jy2c75i0wdx99r)
-* **Update 4:** *Em desenvolvimento*
-* **Update 5:** *Em desenvolvimento*
+* **Update 4:** [Acessar apresentação](https://canva.link/xnyxcq488l7aewb)
+* **Update 5:** [Acessar apresentação](https://canva.link/n8q1pfwv10tyn9y)
 * **Monografia:** *Em desenvolvimento*
 * **Update 6:** *Em desenvolvimento*
 
